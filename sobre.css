@@ -1,0 +1,33 @@
+body{
+background-color: rgb(228, 245, 239);
+    
+table {
+ 
+  width: 100%;
+  border-collapse: collapse;
+  border: 1px solid #ccc;
+}
+
+th, td {
+  border: 1px solid #ccc;
+  padding: 8px;
+}
+
+/* Linha no meio */
+tbody tr:nth-child(3) {
+  border-bottom: 3px solid #000; /* espessura e cor da linha */
+
+
+
+}}
+.vermelho {background-color: rgb(219, 141, 141);
+
+}
+.azul {background-color: rgb(159, 159, 214);
+
+}
+.ana {text-align:center
+}
+.joão {text-align:center
+
+}
